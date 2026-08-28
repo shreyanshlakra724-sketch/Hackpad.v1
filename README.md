@@ -28,5 +28,24 @@ I have also designed a case for this to complete the macropad with slots for the
 
 This project was made using Kicad,Onshape and python for the firmware, the kmk library was used for mapping the keys and providing the output.
 
+- For setting up keys to whatever you want, open firmware.py in any text editor or IDLE Python.:
+
+
+<img width="495" height="456" alt="image" src="https://github.com/user-attachments/assets/5e057410-7f3e-43af-be17-199198d959ea" />
+
+Head over to the area:
+
+keyboard.keymap = [
+    [
+
+
+
+from here you can change the already set mapping by editing it to KC.(key/function whatever you want)
+
+Here's a link to check out the documentation for the kmk firmware on available keys and function: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md
+
+
+
+
 
 
