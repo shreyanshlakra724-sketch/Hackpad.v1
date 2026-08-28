@@ -44,6 +44,10 @@ from here you can change the already set mapping by editing it to KC.(key/functi
 
 Here's a link to check out the documentation for the kmk firmware on available keys and function: https://github.com/KMKfw/kmk_firmware/blob/main/docs/en/Getting_Started.md
 
+All the required files including Gerber files, .step(CAD files), BOM and the code are attached in the repository !.
+
+This is my first hardware project which I have made on a PCB.
+
 
 
 
